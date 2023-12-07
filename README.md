@@ -3,6 +3,6 @@
 - Learning Hacking & Cybersecurity
 - Actual Projects:
 - Pepe Bot (Discord)
-- Strike (Discord)
 - Lagoon (Discord)
+- Five Nights at Hoplit's (Clickteam Fussion 2.5)
 
